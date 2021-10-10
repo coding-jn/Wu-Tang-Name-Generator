@@ -1,0 +1,16 @@
+{
+  "name": "wu-tang",
+  "version": "1.0.0",
+  "description": "Wu-Tang name generator",
+  "main": "server.js",
+  "dependencies": {
+    "figlet": "^1.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Jenna Nguyen",
+  "license": "ISC"
+}

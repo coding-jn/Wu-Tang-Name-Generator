@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+    	<meta charset="utf-8">
+    	<meta name="description" content="This is where your description goes">
+    	<meta name="keywords" content="one, two, three">
+
+		<title>Wu-Tang Name Generator</title>
+
+		<!-- external CSS link -->
+		<link rel="stylesheet" href="css/normalize.css">
+		<link rel="stylesheet" href="css/style.css">
+		<link rel="preconnect" href="https://fonts.googleapis.com">
+		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+		<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans&display=swap&family=Shadows+Into+Light&display=swap" rel="stylesheet">
+	</head>
+	<body>
+		<div id='quiz'>
+			<p></p>
+			<form>
+				<input type='radio' name='answer' id='a' value=''>
+				<label for='a' id='labelA'></label><br>
+				<input type='radio' name='answer' id='b' value=''>
+				<label for='b' id='labelB'></label><br>
+				<input type='radio' name='answer' id='c' value=''>
+				<label for='c' id='labelC'></label><br>
+				<input type='radio' name='answer' id='d' value=''>
+				<label for='d' id='labelD'></label><br>
+				<button id="next" type="button">Next</button>
+			</form>
+		</div>
+		<div id='name' class='hidden'>
+			<h1>Your name is now <span></span></h1>
+		</div>
+
+		<script type="text/javascript" src="js/main.js"></script>
+	</body>
+</html>

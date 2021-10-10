@@ -1,0 +1,74 @@
+/******************************************
+/* CSS
+/*******************************************/
+
+/* Box Model Hack */
+*{
+  box-sizing: border-box;
+  font-family: 'IBM Plex Sans', sans-serif;
+}
+
+/******************************************
+/* LAYOUT
+/*******************************************/
+.hidden {
+  display: none
+}
+
+/* display for quiz */
+
+#quiz {
+  width: 100%;
+  height: 100vh;
+  padding-top: 20vh;
+  padding-bottom: 20vh;
+}
+
+div p {
+  width: 50%;
+  height: 20vh;
+  margin: auto;
+  text-align: center;
+  font-size: 2rem;
+}
+
+div form {
+  width: 50%;
+  height: 40vh;
+  margin: auto;
+  font-size: 1.5rem;
+}
+
+div button {
+  min-width: 30%;
+  max-width: auto;
+  height: 10vh;
+  float: right;
+  font-size: 1.25rem;
+}
+
+/* display for final name */
+
+#name {
+  width: 100%;
+  height: 100vh;
+  padding-top: 40vh;
+  padding-bottom: 40vh;
+  text-align: center;
+}
+
+div h1 {
+  width: 100%;
+  height: 20vh;
+  font-weight: normal;
+}
+
+div h1 span {
+  font-weight: bolder;
+  font-family: 'Shadows Into Light', cursive;
+}
+
+
+/******************************************
+/* ADDITIONAL STYLES
+/*******************************************/
