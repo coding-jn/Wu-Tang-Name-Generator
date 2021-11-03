@@ -2,7 +2,7 @@
 
 Answer 5 simple questions to generate a Wu-Tang name for yourself.
 
-**Live Demo:** <a href="https://wu-tang-name-jenna-nguyen.netlify.app/">Demo</a><i> for display purposes only, still needs API key for functionality</i>
+**Live Demo:** <a href="https://wu-tang-name-jenna-nguyen.netlify.app/">Demo</a><i> for display purposes only</i>
 
 <p float="left">
   <img width="47%" alt="Wu-Tang Quiz" src="https://user-images.githubusercontent.com/88993361/139957953-00122a22-a0e7-45e5-ae6d-f3b191e6dcc3.png">
