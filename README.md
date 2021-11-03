@@ -1,6 +1,6 @@
 # Wu-Tang Name Generator 🔀
 
-Answer 5 questions to generate a Wu-Tang name curated for you.
+Answer 5 simple questions to generate a Wu-Tang name for yourself.
 
 **Live Demo:** <a href="https://wu-tang-name-jenna-nguyen.netlify.app/">Demo</a><i> for display purposes only, still needs API key for functionality</i>
 
